@@ -226,7 +226,7 @@ const HomePage: React.FC = () => {
 
   // 🔁 REPLACED: Logos → Images
   const galleryImages = [
-    "src/public/LOGO_AQUENT_images-removebg-preview.png",
+    "LOGO_AQUENT_images-removebg-preview.png",
     "src/public/_Covetrus_Logo_rgb-TM_2020 1.png",
     "src/public/DIGITAL OCEAN.png",
     "src/public/ford-logo-02.png",
@@ -908,3 +908,4 @@ const HomePage: React.FC = () => {
 };
 
 export default HomePage;
+
